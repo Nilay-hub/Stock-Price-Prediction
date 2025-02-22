@@ -1,0 +1,21 @@
+Project Manual
+Before running the code, please ensure the following steps are completed:
+
+1. Preparing the Dataset
+Ensure you have downloaded the Apple.csv dataset.
+Place the Apple.csv file in the same directory as the notebook files. This is crucial for the code to access and process the data correctly.
+
+-->Files to Run
+   You will be working with two Jupyter Notebook files:
+
+   Fuzzy_time_series_fin.ipynb
+   Stock_arima_sarima_lstm.ipynb
+
+-->Environment Setup
+   Run the notebook files in Jupyter Notebooks or Google Colab to view the results. Make sure that all required libraries are already installed.
+
+Executing the Notebooks
+Open your preferred platform (Jupyter Notebook or Google Colab):
+
+-If using Jupyter Notebook, navigate to the folder containing your notebooks and dataset.
+-If using Google Colab, upload the notebooks and the Apple.csv file to your session.
